@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Front-End Development",
+      "image": "/images/COURSES_IMGS/FRONTEND.svg",
+      "description": "Breathe life into websites! Craft user interfaces using HTML, CSS, and JavaScript, ensuring a seamless user experience."
+    },
+    {
+      "id": 2,
+      "name": "Back-End Development",
+      "image": "/images/COURSES_IMGS/backend.avif.svg",
+      "description": "The invisible force behind websites! Build the server-side logic using languages like Python, Java, or PHP, ensuring smooth data flow."
+    },
+    {
+      "id": 3,
+      "name": "Mobile Development",
+      "image": "/images/COURSES_IMGS/appdev.svg", 
+      "description": "Shape the future of mobile! Develop apps for the Android platform using Kotlin or Java, making the user experience delightful."
+    },
+    {
+      "id": 4,
+      "name": "Programming",
+      "image": "/images/COURSES_IMGS/PROGRAMMING LANGUAGES.svg",
+      "description": "This internship empowers you to leverage your expertise in Java, Python, R, Ruby, and a diverse programming toolkit to tackle real-world challenges."
+    },
+    {
+      "id": 5,
+      "name": "Data Visualization",
+      "image": "/images/COURSES_IMGS/DATA SCIENCE.svg",
+      "description": "Uncover hidden stories in data! Learn data analysis tools like Python libraries, and potentially delve into machine learning algorithms."
+    },
+    {
+      "id": 6,
+      "name": "Machine Learning",
+      "image": "/images/COURSES_IMGS/machinelearning.jpg.svg",
+      "description": "Be a data wizard! Build intelligent systems using machine learning models, transforming data into powerful applications."
+    },
+    {
+      "id": 7,
+      "name": "Artificial Intelligence (AI)",
+      "image": "/images/COURSES_IMGS/Ai.jpeg.svg",
+      "description": "Explore the future of intelligence! Work on Artificial Intelligence (AI) projects, understanding how machines can learn and reason."
+    },
+    {
+      "id": 8,
+      "name": "Blockchain Development",
+      "image": "/images/COURSES_IMGS/blockchain.jpg.svg",
+      "description": "Join the decentralized revolution! Explore blockchain technology, potentially building secure and transparent applications."
+    },
+    {
+      "id": 9,
+      "name": "Cloud Computing & DevOps",
+      "image": "/images/COURSES_IMGS/devOpps.svg", 
+      "description": "Embrace the cloud! Learn about cloud platforms like AWS or Azure, deploying and managing software applications on a scalable infrastructure."
+    }
+]
+  
